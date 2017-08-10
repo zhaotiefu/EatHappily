@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EatHappily</string>
+    <string name="casual_eat">Casual Eat </string>
+    <string name="set_out">Set Out!</string>
+    <string name="click_me">Click Me!</string>
+    <string name="star_text">****</string>
+
+</resources>

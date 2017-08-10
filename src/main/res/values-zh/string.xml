@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">吴吉祥吃什么</string>
+    <string name="casual_eat">我要去 </string>
+    <string name="set_out">出发！</string>
+    <string name="click_me">点我！点我！</string>
+    <string name="star_text">****</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotel_list">
+        <item>钵钵当道</item>
+        <item>陈家小厨</item>
+        <item>兰州拉面</item>
+        <item>味客快餐</item>
+        <item>沙县小吃</item>
+        <item>常德米粉</item>
+        <item>泡面</item>
+        <item>东北饺子</item>
+        <item>浏阳蒸菜</item>
+        <item>麻辣香锅</item>
+        <item>云南米线</item>
+    </string-array>
+</resources>
